@@ -95,9 +95,8 @@
 
 
         .soc-icon {
-          display: flex;
           margin: 0 auto;
-          width: 230px;
+          width:33%;
         }
         .copyright{
           margin-top: 1.4rem;
