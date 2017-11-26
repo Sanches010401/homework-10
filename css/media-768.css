@@ -16,11 +16,8 @@
     width: 6.2rem;
     height: 6.2rem;
   }
-  .gallery-item:nth-child(n+5) {
+  .gallery-item:nth-child(n+7) {
     margin-bottom: 0rem;
-  }
-  .gallery-item:nth-child(n+8) {
-    display: none;
   }
 .number::before {
   display: none;
@@ -36,3 +33,11 @@
 }
 .footer-link {
   font-size: 1rem;
+}
+.gallery-item:nth-child(n+7) {
+  display: flex;
+}
+.gallery-item:nth-child(n+9) {
+  display: none;
+}
+}

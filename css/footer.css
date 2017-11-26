@@ -96,7 +96,7 @@
 
         .soc-icon {
           margin: 0 auto;
-          width:33%;
+          max-width: 23rem;
         }
         .copyright{
           margin-top: 1.4rem;
