@@ -12,14 +12,14 @@
 }
 .socila-svg {
   border-radius: 1rem;
-  width: 4rem;
-  height: 4rem;
+  width: 2.5rem;
+  height: 2.5rem;
 }
 .socila-svg:hover {
   fill: white;
 }
 .social {
-  width: 24rem;
+  width: 14rem;
   display: flex;
   justify-content: space-between;
 }
