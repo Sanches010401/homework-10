@@ -1,0 +1,49 @@
+@media screen and (min-width: 992px) {
+  .header {
+    position: relative;
+    margin-bottom: 5rem;
+  }
+  .gallery-item:nth-child(n+7) {
+    margin-bottom: 0rem;
+  }
+  .gallery-item:nth-child(n+5) {
+    display: flex;
+  }
+  .body {
+    padding-top: 5rem;
+  }
+  .footer-row {
+      max-width: 60rem;
+    }
+  .container {
+    padding-top: 4rem;
+  }
+  .title-two {
+    font-size: 2rem;
+  }
+  .menu {
+    width: 84%;
+    flex-wrap: nowrap;
+  }
+  .menu-link {
+    font-size: 1.8rem;
+  }
+  .nearth-logo {
+    margin-right: 10rem;
+  }
+  .logo-link {
+    font-size: 3.8rem;
+    line-height: 7.5rem;
+  }
+  .box-logo {
+    position: absolute;
+    top: 31%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    width: 8rem;
+    height: 8rem;
+    margin-bottom: 0;
+}
+  .header {
+    max-width: 60rem;
+  }

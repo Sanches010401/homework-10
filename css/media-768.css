@@ -1,0 +1,38 @@
+ @media screen and (min-width: 768px) {
+  .menu {
+    width: 54%;
+  }
+  .title-two {
+    font-size: 1.8rem;
+  }
+  .menu-link {
+    font-size: 1.5rem;
+  }
+  .logo-link {
+    font-size: 2.8rem;
+    line-height: 6rem;
+  }
+  .box-logo {
+    width: 6.2rem;
+    height: 6.2rem;
+  }
+  .gallery-item:nth-child(n+5) {
+    margin-bottom: 0rem;
+  }
+  .gallery-item:nth-child(n+8) {
+    display: none;
+  }
+.number::before {
+  display: none;
+}
+.mail::before {
+  display: none;
+}
+.footer__number {
+  font-size: 0.65rem;
+}
+.number {
+  margin-top: 0.3rem;
+}
+.footer-link {
+  font-size: 1rem;
